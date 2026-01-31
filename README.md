@@ -1,22 +1,65 @@
 # Hey there! 👋
+
 ## About Me
 
-My name is Fahad Waseem, and I recently graduated from Superior University. I'm an aspiring programmer on a quest to conquer the coding world! 🚀
+I’m **Fahad Waseem**, a **Software & Data-focused Engineer with 3 years of hands-on experience** working on real-world systems, automation, and data-driven solutions. I graduated from **Superior University** and focus on building practical, production-ready software rather than purely academic projects.
 
-### Languages and Tools
+I prefer working with clear requirements, structured data, and maintainable logic—especially in backend, automation, and data workflows.
 
-I've explored various programming languages and technologies, but Python has captured my heart. 💙 It's versatile, elegant, and simply amazing! I also have experience with C++, Node.js, Express.js, HTML, CSS, PHP, SQL, and MongoDB.
+---
 
-### Passion and Ambition
+## Languages and Tools
 
-I'm driven by my passion for problem-solving and creating innovative solutions. Python empowers me to bring ideas to life and make a positive impact. Whether it's building robust web applications, working with databases like SQL or MongoDB, or exploring new frontiers, I'm always ready to take on exciting challenges.
+### Primary Focus
+- **Python** (automation, scripting, data processing)
+- **SQL** (queries, transformations, integrations)
+- **AWS** (preferred cloud platform)
+- **Power Automate** (workflow & process automation)
+- **Hightouch** (data syncs, mappings, associations)
 
-Join me on this coding journey, and let's collaborate to build something extraordinary! ✨
+### Also Experienced With
+- C++
+- Node.js
+- Express.js
+- HTML
+- CSS
+- PHP
+- MongoDB
 
-Feel free to reach out to me. I'm always eager to connect with fellow developers and explore new opportunities.
+---
 
-Let's write code and make magic happen! 😄
+## What I Work On
 
+- Data integrations and synchronization pipelines  
+- Workflow automation to reduce manual effort  
+- Backend logic and system-to-system communication  
+- Working with structured datasets and business rules  
+- Turning requirements into stable, maintainable solutions  
 
+I value accuracy, efficiency, and execution over buzzwords.
 
-![Fahad's Github stats](https://github-readme-stats.vercel.app/api?username=fahad756&hide=prs,issues,contribs&theme=radical&show_icons=true&count_private=true)
+---
+
+## Current Focus
+
+- Moving deeper into **Data Engineering–oriented work**
+- Strengthening **Python, SQL, and cloud fundamentals**
+- Building a portfolio of **real, applied projects**
+- Targeting opportunities in **Saudi Arabia (Riyadh)**
+
+---
+
+## Let’s Connect
+
+I’m open to collaborating on:
+- Data, backend, or automation projects  
+- Practical engineering problems  
+- Growth-oriented technical roles  
+
+Let’s build things that actually work. 🚀
+
+---
+
+## GitHub Stats
+
+![Fahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahad756&show_icons=true&theme=radical)
