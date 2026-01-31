@@ -58,21 +58,3 @@ I’m open to collaborating on:
 - Growth-oriented technical roles  
 
 Let’s build things that actually work. 🚀
-
----
-
-## GitHub Stats
-
-![My GitHub Stats](https://animated-profile-stats.vercel.app/api/card?username=fahad756&type=fire)
-
-
-![GitHub Stats – Electric](https://animated-profile-stats.vercel.app/api/card?username=fahad756&type=electric)
-![GitHub Stats – Dragon](https://animated-profile-stats.vercel.app/api/card?username=fahad756&type=dragon)
-
-
-## Stats (Basic)
-
-![GitHub followers](https://img.shields.io/github/followers/fahad756?label=Followers&style=flat-square)
-![GitHub repos](https://img.shields.io/github/repos/fahad756?style=flat-square)
-
-
