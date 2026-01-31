@@ -63,6 +63,9 @@ Let’s build things that actually work. 🚀
 
 ## GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahad756&show_icons=true&theme=radical" alt="Fahad's GitHub stats" />
-</p>
+![Fahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahad756&show_icons=true&theme=radical&cache_seconds=86400)
+
+## GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahad756&layout=compact&theme=radical)
+
