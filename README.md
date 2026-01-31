@@ -63,9 +63,16 @@ Let’s build things that actually work. 🚀
 
 ## GitHub Stats
 
-![Fahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahad756&show_icons=true&theme=radical&cache_seconds=86400)
+![My GitHub Stats](https://animated-profile-stats.vercel.app/api/card?username=fahad756&type=fire)
 
-## GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahad756&layout=compact&theme=radical)
+![GitHub Stats – Electric](https://animated-profile-stats.vercel.app/api/card?username=fahad756&type=electric)
+![GitHub Stats – Dragon](https://animated-profile-stats.vercel.app/api/card?username=fahad756&type=dragon)
+
+
+## Stats (Basic)
+
+![GitHub followers](https://img.shields.io/github/followers/fahad756?label=Followers&style=flat-square)
+![GitHub repos](https://img.shields.io/github/repos/fahad756?style=flat-square)
+
 
