@@ -15,6 +15,7 @@ I prefer working with clear requirements, structured data, and maintainable logi
 - **SQL** (queries, transformations, integrations)
 - **AWS** (preferred cloud platform)
 - **Power Automate** (workflow & process automation)
+- **n8n** (workflow automation, integrations)
 - **Hightouch** (data syncs, mappings, associations)
 
 ### Also Experienced With
@@ -31,7 +32,7 @@ I prefer working with clear requirements, structured data, and maintainable logi
 ## What I Work On
 
 - Data integrations and synchronization pipelines  
-- Workflow automation to reduce manual effort  
+- Workflow automation using **Power Automate** and **n8n**  
 - Backend logic and system-to-system communication  
 - Working with structured datasets and business rules  
 - Turning requirements into stable, maintainable solutions  
@@ -62,4 +63,6 @@ Let’s build things that actually work. 🚀
 
 ## GitHub Stats
 
-![Fahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahad756&show_icons=true&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=fahad756&show_icons=true&theme=radical" alt="Fahad's GitHub stats" />
+</p>
