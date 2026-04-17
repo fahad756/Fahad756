@@ -2,59 +2,72 @@
 
 ## About Me
 
-I’m **Fahad Waseem**, a **Software & Data-focused Engineer with 3 years of hands-on experience** working on real-world systems, automation, and data-driven solutions. I graduated from **Superior University** and focus on building practical, production-ready software rather than purely academic projects.
+I’m **Fahad Waseem** — a **Software Engineer focused on backend systems and automation** with ~3 years of hands-on experience.
 
-I prefer working with clear requirements, structured data, and maintainable logic—especially in backend, automation, and data workflows.
+Based in **France**, I specialize in building **reliable automation workflows, backend logic, and system integrations** that solve real business problems.
 
----
+I focus on:
 
-## Languages and Tools
+* Turning requirements into **working systems**
+* Building **clean, maintainable backend logic**
+* Automating processes to reduce manual work
 
-### Primary Focus
-- **Python** (automation, scripting, data processing)
-- **SQL** (queries, transformations, integrations)
-- **AWS** (preferred cloud platform)
-- **Power Automate** (workflow & process automation)
-- **n8n** (workflow automation, integrations)
-- **Hightouch** (data syncs, mappings, associations)
-
-### Also Experienced With
-- C++
-- Node.js
-- Express.js
-- HTML
-- CSS
-- PHP
-- MongoDB
+I prefer **practical solutions over theoretical complexity**.
 
 ---
 
-## What I Work On
+## Tech Stack
 
-- Data integrations and synchronization pipelines  
-- Workflow automation using **Power Automate** and **n8n**  
-- Backend logic and system-to-system communication  
-- Working with structured datasets and business rules  
-- Turning requirements into stable, maintainable solutions  
+### Core Stack
 
-I value accuracy, efficiency, and execution over buzzwords.
+* **Python** — backend logic, automation, scripting
+* **SQL** — data handling, transformations
+* **AWS** — cloud services
+* **Power Automate** — workflow automation
+* **n8n** — API orchestration & integrations
+* **HubSpot / Hightouch** — CRM automation & data syncs
+
+### Supporting Tools
+
+* Node.js, Express.js
+* MongoDB
+* HTML, CSS
+* PHP
+* C++ (foundation)
+
+---
+
+## What I Build
+
+* **Automation Workflows** — end-to-end systems using Power Automate & n8n
+* **Backend Integrations** — connecting APIs, CRMs, and services
+* **System Workflows** — handling real business operations reliably
+* **Data Handling in Applications** — structured data inside backend systems
 
 ---
 
 ## Current Focus
 
-- Moving deeper into **Data Engineering–oriented work**
-- Strengthening **Python, SQL, and cloud fundamentals**
-- Building a portfolio of **real, applied projects**
-- Targeting opportunities in **Saudi Arabia (Riyadh)**
+* Strengthening **backend engineering (Python + APIs + system design)**
+* Building **real-world automation and integration projects**
+* Exploring opportunities in **France and Europe**
+
+---
+
+## Philosophy
+
+* Build systems that **don’t break**
+* Keep logic **simple and maintainable**
+* Focus on **real execution, not buzzwords**
 
 ---
 
 ## Let’s Connect
 
-I’m open to collaborating on:
-- Data, backend, or automation projects  
-- Practical engineering problems  
-- Growth-oriented technical roles  
+I’m open to:
 
-Let’s build things that actually work. 🚀
+* Backend / Automation projects
+* API integrations and workflow systems
+* Engineering roles where **practical skills matter**
+
+Let’s build something useful. 🚀
