@@ -2,7 +2,7 @@
 
 ## About Me
 
-I’m **Fahad Waseem** — a **Software Engineer focused on backend systems and automation** with ~3 years of hands-on experience.
+I’m **Fahad Waseem**, a **Software Engineer focused on backend systems and automation** with ~3 years of hands-on experience.
 
 Based in **France**, I specialize in building **reliable automation workflows, backend logic, and system integrations** that solve real business problems.
 
